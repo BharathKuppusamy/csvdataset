@@ -1,0 +1,1 @@
+{"type": "FeatureCollection", "features": [{"type": "Feature", "properties": {"stroke": "#f20202", "stroke-width": 2, "stroke-opacity": 1}, "geometry": {"coordinates": [[-97.10878767589475, 32.728843606345535], [-97.10880042474784, 32.72831808820057]], "type": "LineString"}, "id": 29}]}
